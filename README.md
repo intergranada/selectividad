@@ -1,2 +1,0 @@
-# selectividad
-integranada selectividad
