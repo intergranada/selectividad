@@ -64,7 +64,7 @@ BODY {
     FONT-SIZE: 16pt;
     FONT-FAMILY: Trebuchet MS, sans-serif;
     LETTER-SPACING: -1px;
-    color: #000000;
+    color: #FFFFFF;
 }
 .titulo2 {
     FONT-WEIGHT: 400;
@@ -122,7 +122,8 @@ BODY {
 .txt {
     FONT-SIZE: 8pt;
     FONT-STYLE: normal;
-    FONT-FAMILY: Verdana, Arial, sans-serif
+    FONT-FAMILY: Verdana, Arial, sans-serif;
+    text-align: center;
 }
 .txtresultados {
 	FONT-WEIGHT: normal; FONT-SIZE: 7pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
