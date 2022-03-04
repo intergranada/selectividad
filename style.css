@@ -82,6 +82,14 @@ BODY {
     color: #FFFFFF;
     font-style: normal;
 }
+.txtportada {
+    FONT-WEIGHT: 800;
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: handlee;
+    LETTER-SPACING: 0px;
+    color: #000000;
+    font-style: normal;
+}
 .resalta {
 	COLOR: #ba7b03
 }
