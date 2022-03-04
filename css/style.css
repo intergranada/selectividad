@@ -14,12 +14,12 @@ A:hover {
 	COLOR: #000000; TEXT-DECORATION: underline
 }
 TD {
-	FONT-WEIGHT: normal;
-	FONT-SIZE: 8pt;
-	COLOR: #000000;
-	FONT-STYLE: normal;
-	FONT-FAMILY: Verdana, Arial, sans-serif;
-	text-align: center;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    COLOR: #000000;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Arial, sans-serif;
+    text-align: center;
 }
 SELECT {
 	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 8pt; BORDER-LEFT: black 1px solid; COLOR: #000000; BORDER-BOTTOM: black 1px solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, sans-serif; BACKGROUND-COLOR: #ffffff
@@ -37,35 +37,59 @@ LI {
 	FONT-WEIGHT: bold; FONT-SIZE: 40pt; FONT-FAMILY: Verdana, Impact, sans-serif; LETTER-SPACING: -3px
 }
 IMG {
-	BORDER-RIGHT: 0px;
-	BORDER-TOP: 0px;
-	BORDER-LEFT: 0px;
-	border-radius: 10;
-	BORDER-BOTTOM: 0px;
+    BORDER-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    BORDER-LEFT: 0px;
+    BORDER-BOTTOM: 0px;
+    text-align: center;
 }
 BODY {
-	SCROLLBAR-FACE-COLOR: #ffffff;
-	FONT-SIZE: 8pt;
-	SCROLLBAR-HIGHLIGHT-COLOR: white;
-	SCROLLBAR-SHADOW-COLOR: #ffffff;
-	SCROLLBAR-3DLIGHT-COLOR: #999999;
-	SCROLLBAR-ARROW-COLOR: #999999;
-	SCROLLBAR-TRACK-COLOR: white;
-	FONT-FAMILY: Verdana, Arial, sans-serif;
-	SCROLLBAR-DARKSHADOW-COLOR: #999999;
-	border-color: #001E67;
+    SCROLLBAR-FACE-COLOR: #ffffff;
+    FONT-SIZE: 8pt;
+    SCROLLBAR-HIGHLIGHT-COLOR: white;
+    SCROLLBAR-SHADOW-COLOR: #ffffff;
+    SCROLLBAR-3DLIGHT-COLOR: #999999;
+    SCROLLBAR-ARROW-COLOR: #999999;
+    SCROLLBAR-TRACK-COLOR: white;
+    FONT-FAMILY: Verdana, Arial, sans-serif;
+    SCROLLBAR-DARKSHADOW-COLOR: #999999;
+    text-align: center;
+    color: #FBA618;
 }
 .micro {
 	FONT-SIZE: 7pt; FONT-FAMILY: Verdana, sans-serif; LETTER-SPACING: -1px
 }
 .titulo {
-	FONT-WEIGHT: normal;
-	FONT-SIZE: 16pt;
-	FONT-FAMILY: Trebuchet MS, sans-serif;
-	LETTER-SPACING: -1px;
-	color: #FCFCFC;
-	text-align: center;
-	font-style: normal;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 16pt;
+    FONT-FAMILY: Trebuchet MS, sans-serif;
+    LETTER-SPACING: -1px;
+    color: #FFFFFF;
+}
+.titulo2 {
+    FONT-WEIGHT: 400;
+    FONT-SIZE: 14pt;
+    FONT-FAMILY: Trebuchet MS, sans-serif;
+    LETTER-SPACING: -1px;
+    color: #FFFFFF;
+    font-style: normal;
+}
+.titulo3 {
+    FONT-WEIGHT: 800;
+    FONT-SIZE: 18pt;
+    FONT-FAMILY: handlee;
+    LETTER-SPACING: 0px;
+    color: #FFFFFF;
+    font-style: normal;
+}
+.txtportada {
+    FONT-WEIGHT: 800;
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: "handlee";
+	src:url("css/Handlee.ttf");
+    LETTER-SPACING: 0px;
+    color: #000000;
+    font-style: normal;
 }
 .resalta {
 	COLOR: #ba7b03
@@ -99,17 +123,16 @@ BODY {
 	BACKGROUND-COLOR: white; TEXT-DECORATION: none
 }
 .linkmenulink2:hover {
-	BACKGROUND-COLOR: #f4d49d;
-	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #f4d49d; TEXT-DECORATION: none
 }
 .linkmenu1 {
 	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 2px; BORDER-BOTTOM: #c28003 1px solid; BACKGROUND-COLOR: #fdf6ed
 }
 .txt {
-	FONT-SIZE: 8pt;
-	FONT-STYLE: normal;
-	FONT-FAMILY: Verdana, Arial, sans-serif;
-	TEXT-ALIGN: center
+    FONT-SIZE: 8pt;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Arial, sans-serif;
+    text-align: center;
 }
 .txtresultados {
 	FONT-WEIGHT: normal; FONT-SIZE: 7pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
