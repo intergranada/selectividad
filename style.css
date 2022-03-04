@@ -85,7 +85,8 @@ BODY {
 .txtportada {
     FONT-WEIGHT: 800;
     FONT-SIZE: 10pt;
-    FONT-FAMILY: handlee;
+    FONT-FAMILY: "handlee";
+	src:url("css/Handlee.ttf");
     LETTER-SPACING: 0px;
     color: #000000;
     font-style: normal;
